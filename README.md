@@ -1,6 +1,6 @@
 <img align="right" src="https://github.com/chivandikwa/chivandikwa/blob/master/humaaans.png" alt="Illustration of Thulani being himself" width=350px height=465px/>
 
-### 👋 ![Open Docs](https://img.shields.io/badge/Hi_my_name_is-Thulani-blue?style=for-the-badge&logo=google-scholar)
+### 👋 ![Open Docs](https://img.shields.io/badge/Hi_my_name_is-Thulani-green?style=for-the-badge&logo=google-scholar)
 
 I’m an software developer, husband, dad and tea lover. I currently work as a Senior Software Engineer in The Netherlands 🌷. 
 
