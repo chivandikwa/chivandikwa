@@ -1,4 +1,4 @@
-<img align="right" src="https://github.com/kmt901/kmt901/blob/master/humaaans.PNG" alt="Illustration of Thulani being himself" width=350px height=465px/>
+<img align="right" src="https://github.com/chivandikwa/chivandikwa/blob/master/humaaans.png" alt="Illustration of Thulani being himself" width=350px height=465px/>
 
 ### Hi, I'm Thulani 👋
 
