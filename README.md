@@ -9,5 +9,5 @@ I’m an software developer, husband, dad and tea lover. I currently work as a S
 - 💚 I enjoy home automation. I use Zigbee devices, [Home Assistant](https://github.com/home-assistant/core), [Conbee II](https://phoscon.de/en/conbee2/) and [Node Red](https://github.com/node-red/node-red). 
 - 💬  Ask me about Functional Programming, Python and.NET Core.
 - 📫  How to reach me: [Instagram](https://www.instagram.com/anashe.photography/)
-- 🚴🏽‍♀️  Fun fact: I love taking photographs of pretty much anything but mainly I do nature and archticture and senseless roadtrips!
+- 🚴🏽‍♀️  Fun fact: I love taking photographs of pretty much anything but mainly I do nature and archticture!
 
